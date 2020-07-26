@@ -1,0 +1,1 @@
+review_id~prod_name~review_link~pros~cons~verdict~review_text
